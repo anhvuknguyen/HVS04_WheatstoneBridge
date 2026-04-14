@@ -523,7 +523,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Exports/",
       "specctra_dsn": "",
       "vrml": ""
     },
